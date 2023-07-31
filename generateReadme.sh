@@ -1,10 +1,13 @@
-echo "Generating README.md with tree..."
+echo "Generating README.md ..."
+
+#The path of github repository in main branch
+githubPath="https://github.com/AlyssonRhuan/learning/tree/main"
 
 #This Shell script get all directories and sub directories
 #and generate the tree with github page link
 
 #The main folder in local machine
-baseFolder=C:/AlyssonCodes/learning
+baseFolder=$PWD
 
 #Array with all directories and sub directories
 folderArray=("$baseFolder")
@@ -84,12 +87,16 @@ do
     done
 
     #Here we concat the path in the readme
-    readme+="$tabs* [$name](https://github.com/AlyssonRhuan/learning/tree/main$path)."
+    readme+="$tabs* [$name]($githubPath$path)"
     
     #And concat a new line
     readme+="
 "
 done
+
+readme+="
+
+Update at $(date +'%d/%m/%Y')"
 
 #And now we update the readme file
 echo "$readme" > README.md
