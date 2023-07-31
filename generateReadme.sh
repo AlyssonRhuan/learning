@@ -96,7 +96,7 @@ done
 
 readme+="
 
-Update at $(date +'%d/%m/%Y')"
+Last update on $(date +'%d/%m/%Y')"
 
 #And now we update the readme file
 echo "$readme" > README.md

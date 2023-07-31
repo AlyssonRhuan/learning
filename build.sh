@@ -1,5 +1,5 @@
 echo "Start build"
 sh generateReadme.sh
 git add .
-git commit -m "Update at $(date)"
+git commit -m "Last update on $(date)"
 git push origin main
