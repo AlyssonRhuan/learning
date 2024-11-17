@@ -16,9 +16,10 @@
    * [Base Track](https://github.com/AlyssonRhuan/learning/tree/main/K8S/Base%20Track)
 * [SCRUM](https://github.com/AlyssonRhuan/learning/tree/main/SCRUM)
    * [Scrum Master (Udemy)](https://github.com/AlyssonRhuan/learning/tree/main/SCRUM/Scrum%20Master%20%28Udemy%29)
-      * [Foundation](https://github.com/AlyssonRhuan/learning/tree/main/SCRUM/Scrum%20Master%20%28Udemy%29/Foundation)
+      * [1. Foundation](https://github.com/AlyssonRhuan/learning/tree/main/SCRUM/Scrum%20Master%20%28Udemy%29/1.%20Foundation)
+      * [2. Developing People and Teams](https://github.com/AlyssonRhuan/learning/tree/main/SCRUM/Scrum%20Master%20%28Udemy%29/2.%20Developing%20People%20and%20Teams)
 * [SPRING BOOT](https://github.com/AlyssonRhuan/learning/tree/main/SPRING%20BOOT)
    * [Spring Boot Expert (Udemy)](https://github.com/AlyssonRhuan/learning/tree/main/SPRING%20BOOT/Spring%20Boot%20Expert%20%28Udemy%29)
 
 
-Last update on 08/11/2024
+Last update on 17/11/2024
