@@ -20,8 +20,9 @@
       * [2.Developing People and Teams](https://github.com/AlyssonRhuan/learning/tree/main/SCRUM/Scrum%20Master%20%28Udemy%29/2.Developing%20People%20and%20Teams)
       * [3.Product Management](https://github.com/AlyssonRhuan/learning/tree/main/SCRUM/Scrum%20Master%20%28Udemy%29/3.Product%20Management)
       * [4.Development and Delivering products](https://github.com/AlyssonRhuan/learning/tree/main/SCRUM/Scrum%20Master%20%28Udemy%29/4.Development%20and%20Delivering%20products)
+      * [5.Tips](https://github.com/AlyssonRhuan/learning/tree/main/SCRUM/Scrum%20Master%20%28Udemy%29/5.Tips)
 * [SPRING BOOT](https://github.com/AlyssonRhuan/learning/tree/main/SPRING%20BOOT)
    * [Spring Boot Expert (Udemy)](https://github.com/AlyssonRhuan/learning/tree/main/SPRING%20BOOT/Spring%20Boot%20Expert%20%28Udemy%29)
 
 
-Last update on 17/11/2024
+Last update on 18/11/2024
