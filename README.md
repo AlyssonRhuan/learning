@@ -13,7 +13,6 @@
    * [Essentials](https://github.com/AlyssonRhuan/learning/tree/main/AWS/Essentials)
 * [DEVOPS](https://github.com/AlyssonRhuan/learning/tree/main/DEVOPS)
    * [DevOps Ninja (Udemy)](https://github.com/AlyssonRhuan/learning/tree/main/DEVOPS/DevOps%20Ninja%20%28Udemy%29)
-      * [1.Ambiente](https://github.com/AlyssonRhuan/learning/tree/main/DEVOPS/DevOps%20Ninja%20%28Udemy%29/1.Ambiente)
 * [DOCKER](https://github.com/AlyssonRhuan/learning/tree/main/DOCKER)
 * [K8S](https://github.com/AlyssonRhuan/learning/tree/main/K8S)
    * [Base Track](https://github.com/AlyssonRhuan/learning/tree/main/K8S/Base%20Track)
@@ -28,4 +27,4 @@
    * [Spring Boot Expert (Udemy)](https://github.com/AlyssonRhuan/learning/tree/main/SPRING%20BOOT/Spring%20Boot%20Expert%20%28Udemy%29)
 
 
-Last update on 19/11/2024
+Last update on 22/11/2024
