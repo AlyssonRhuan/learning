@@ -7,8 +7,8 @@
 # Table of Contents
 
 * [AWS](https://github.com/AlyssonRhuan/learning/tree/main/AWS)
-   * [Amazon ECS Primer](https://github.com/AlyssonRhuan/learning/tree/main/AWS/Amazon%20ECS%20Primer)
    * [APN Containers](https://github.com/AlyssonRhuan/learning/tree/main/AWS/APN%20Containers)
+   * [Amazon ECS Primer](https://github.com/AlyssonRhuan/learning/tree/main/AWS/Amazon%20ECS%20Primer)
    * [EKS Primer](https://github.com/AlyssonRhuan/learning/tree/main/AWS/EKS%20Primer)
    * [Essentials](https://github.com/AlyssonRhuan/learning/tree/main/AWS/Essentials)
 * [DEVOPS](https://github.com/AlyssonRhuan/learning/tree/main/DEVOPS)
@@ -27,4 +27,4 @@
    * [Spring Boot Expert (Udemy)](https://github.com/AlyssonRhuan/learning/tree/main/SPRING%20BOOT/Spring%20Boot%20Expert%20%28Udemy%29)
 
 
-Last update on 05/12/2024
+Last update on 11/02/2025
